@@ -1,0 +1,4 @@
+backup.sh
+.venv
+venv
+*.pyc
