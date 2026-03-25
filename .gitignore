@@ -2,3 +2,4 @@ backup.sh
 .venv
 venv
 *.pyc
+.DS_Store

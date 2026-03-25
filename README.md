@@ -4,10 +4,9 @@ Various notes on Python. These are mostly notes to self, but they may be of use 
 
 Current contents:
 
-- Building REPL tools: [code/tools/repl/README.md](code/tools/repl/README.md)
+- Building [REPL tools](code/tools/repl/README.md).
+- [Textual](code/tools/textual/README.md) and [Rich](code/tools/textual/rich) for user interfaces and formatting in a terminal.
 
 Soon to be added:
 
-- Using rich.
-- Using textual.
 - Links to Python topics in the CS217 repository.

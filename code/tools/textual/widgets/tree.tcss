@@ -1,0 +1,25 @@
+$border: solid darkgreen;
+
+
+Tree, Label {
+	margin-left: 1;
+	margin-right: 1;
+	border: $border;
+}
+
+Label {
+	width: 100%;
+	padding-left: 1;
+}
+
+.wide_column {
+    width: 3fr;
+}
+
+.narrow_column {
+    width: 1fr;
+}
+
+.fullheight {
+	height: 100%;
+}
